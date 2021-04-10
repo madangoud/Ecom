@@ -1,0 +1,8 @@
+Uncaught Error: Graph container element not found
+    at d [as constructor] (morris.min.js:6)
+    at d.c [as constructor] (morris.min.js:6)
+    at new d (morris.min.js:6)
+    at Object.d [as Area] (morris.min.js:6)
+    at HTMLDocument.<anonymous> (morris_home_data.js:4)
+    at j (jquery.min.js:2)
+    at k (jquery.min.js:2)
